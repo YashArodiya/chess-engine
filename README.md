@@ -58,5 +58,3 @@ YACS is a simple, work in progress chess website built using Next.js and Tailwin
 
 
 ---
-
-YACS is a work in progress, developed by Shubhang Dvivedi and Jeet T, inspired by their passion for chess and the desire to offer an enjoyable and accessible platform for chess enthusiasts. Be sure to check in periodically for new updates!
