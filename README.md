@@ -38,7 +38,7 @@ YACS is a simple, work in progress chess website built using Next.js and Tailwin
 1. **Clone the Repository:**
 
    ```
-   git clone https://github.com/shubhang-dvivedi/chess-engine.git
+   git clone https://github.com/YashArodiya/chess-engine.git
    cd chess-engine
    ```
 
